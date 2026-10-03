@@ -56,4 +56,4 @@ Technologies: Python, Pandas, NLTK, Scikit-learn
 
 🤝 Let's Connect
 
-"GitHub" (https://github.com/indrajithas673) · "LinkedIn" (https://www.linkedin.com/)
+"GitHub" (https://github.com/indrajithas673) · "LinkedIn" (https://www.linkedin.com/indrajith-as)
