@@ -1,7 +1,5 @@
 ## Hi there,  I'm Indrajith A S 👋
 
-<!--
-
 🎓 Final-year Information Science and Engineering student at CMR Institute of Technology, Bengaluru.
 
 💻 Interested in software development, backend engineering, and building practical applications.
