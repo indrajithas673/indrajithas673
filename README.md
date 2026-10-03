@@ -7,7 +7,7 @@
 - 🔭 Working on Java and full-stack development projects
 - 🌱 Strengthening my skills in Java, SQL, backend development, and problem-solving
 - 🛠️ Building projects focused on distributed systems, web applications, and machine learning
-- 📫 Connect with me on "LinkedIn" (https://www.linkedin.com/)
+- 📫 Connect with me on "LinkedIn" (https://www.linkedin.com/in/indrajith-as)
 
 🧰 Technical Skills
 
@@ -56,4 +56,4 @@ Technologies: Python, Pandas, NLTK, Scikit-learn
 
 🤝 Let's Connect
 
-"GitHub" (https://github.com/indrajithas673) · "LinkedIn" (https://www.linkedin.com/indrajith-as)
+"GitHub" (https://github.com/indrajithas673) · "LinkedIn" (https://www.linkedin.com/in/indrajith-as)
